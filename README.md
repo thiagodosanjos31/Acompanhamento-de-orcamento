@@ -9,3 +9,8 @@ As principais features criadas são:<br>
 • Armazenamento no Local Storage<br>
 • Exibição na tela de consulta<br>
 • Filtro por atributos<br>
+
+Tecnologias utilizadas:<br>
+• HTML/CSS
+• Bootstrap
+• Javascript (Ecmascript 6)
