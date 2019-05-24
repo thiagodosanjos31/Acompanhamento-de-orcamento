@@ -11,6 +11,6 @@ As principais features criadas são:<br>
 • Filtro por atributos<br>
 
 Tecnologias utilizadas:<br>
-• HTML/CSS
-• Bootstrap
-• Javascript (Ecmascript 6)
+• HTML/CSS<br>
+• Bootstrap<br>
+• Javascript (Ecmascript 6)<br>
