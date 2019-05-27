@@ -14,3 +14,7 @@ Tecnologias utilizadas:<br>
 • HTML/CSS<br>
 • Bootstrap<br>
 • Javascript (Ecmascript 6)<br>
+
+# Como inicializar?
+
+• Realizar o download dos arquivos disponíveis e abrir o arquivo index.html 
