@@ -21,4 +21,4 @@ Tecnologias utilizadas:<br>
 
 # Customização
 
-Conforme o solicitado no issue, implementei a busca dinâmica através do filtro.
+Conforme solicitado no issue, implementei a busca dinâmica através do filtro.
