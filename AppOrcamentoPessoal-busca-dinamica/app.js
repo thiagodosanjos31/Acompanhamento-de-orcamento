@@ -91,7 +91,7 @@ class Bd{
 		}
 		//dia
 		if(despesa.dia != ''){
-			despesasFiltradas = despesasFiltradas.filter(d => d.dia == despesa.dia)
+			despesasFiltradas = despesasFiltradas.filter(d => d.dia.match(despesa.dia))
 		}
 		//tipo
 		if(despesa.tipo != ''){
@@ -99,7 +99,7 @@ class Bd{
 		}
 		//descricao
 		if(despesa.descricao != ''){
-			console.log(despesa.descricao)
+			
 			despesasFiltradas = despesasFiltradas.filter(d => d.descricao.match(despesa.descricao)
 				)
 
