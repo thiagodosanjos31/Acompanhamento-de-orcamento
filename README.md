@@ -18,3 +18,7 @@ Tecnologias utilizadas:<br>
 # Como inicializar?
 
 • Realizar o download dos arquivos disponíveis e abrir o arquivo index.html 
+
+# Customização
+
+Conforme o solicitado no issue, implementei a busca dinâmica através do filtro.
