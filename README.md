@@ -10,7 +10,7 @@ As principais features criadas são:<br>
 • Exibição na tela de consulta<br>
 • Filtro por atributos<br>
 
-Tecnologias utilizadas:<br>
+# Tecnologias utilizadas:<br>
 • HTML/CSS<br>
 • Bootstrap<br>
 • Javascript (Ecmascript 6)<br>
